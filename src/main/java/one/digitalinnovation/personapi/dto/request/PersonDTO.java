@@ -1,6 +1,5 @@
 package one.digitalinnovation.personapi.dto.request;
 
-
 import java.util.List;
 
 import javax.validation.Valid;
